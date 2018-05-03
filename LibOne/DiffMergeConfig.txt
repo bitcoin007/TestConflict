@@ -1,0 +1,18 @@
+﻿Add to file .gitconfig at C:\Users\Win7
+
+[user]
+	name = Mona Lisa
+	email = A241540979@gmail.com[core]
+	editor = 'C:\\Program Files\\Sublime Text 3\\sublime_text.exe' -multiInst -nosession
+[alias]
+	undo = reset HEAD --
+[merge]
+    tool = diffmerge
+[diff]
+    tool = diffmerge
+[mergetool]
+    keepBackup = false
+[mergetool "diffmerge"]
+    cmd = git-mergetool-diffmerge-wrapper.sh "$LOCAL" "$BASE" "$REMOTE" "$MERGED"
+[difftool "diffmerge"]
+    cmd = git-difftool-diffmerge-wrapper.sh "$LOCAL" "$REMOTE"
