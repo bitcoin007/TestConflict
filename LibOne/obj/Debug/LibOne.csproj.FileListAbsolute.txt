@@ -1,0 +1,6 @@
+C:\Users\Win7\source\repos\TestConflict\LibOne\bin\Debug\LibOne.dll
+C:\Users\Win7\source\repos\TestConflict\LibOne\bin\Debug\LibOne.pdb
+C:\Users\Win7\source\repos\TestConflict\LibOne\obj\Debug\LibOne.csprojResolveAssemblyReference.cache
+C:\Users\Win7\source\repos\TestConflict\LibOne\obj\Debug\LibOne.csproj.CoreCompileInputs.cache
+C:\Users\Win7\source\repos\TestConflict\LibOne\obj\Debug\LibOne.dll
+C:\Users\Win7\source\repos\TestConflict\LibOne\obj\Debug\LibOne.pdb
